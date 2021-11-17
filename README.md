@@ -6,4 +6,7 @@ Sou Nilton Miguel Guimarães de souza, residente em Curitiba, PR, estudante, ing
 
 
 
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
+![DuckDuckGo](https://img.shields.io/badge/DuckDuckGo-DE5833?style=for-the-badge&logo=DuckDuckGo&logoColor=white)
+
 <!-- **Nilton-Miguel/Nilton-Miguel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
