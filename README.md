@@ -14,8 +14,9 @@ Sou Nilton Miguel Guimarães de souza, residente em Curitiba, PR, estudante, ing
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width=48 height=48/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width=48 height=48/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width=48 height=48/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/1200px-Blender_logo_no_text.svg.png"width=59 height=48/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" width=48 height=48/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width=48 height=48/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width=48 height=48/> 
 </div>
 
 <!-- **Nilton-Miguel/Nilton-Miguel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
