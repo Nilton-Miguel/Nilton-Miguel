@@ -4,7 +4,7 @@ Sou Nilton Miguel Guimarães de souza, residente em Curitiba, PR. Estudante, ing
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nilton-miguel&show_icons=true&theme=github_dark&hide_border=true&bg_color=0000)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nilton-miguel&layout=compact&theme=github_dark&hide_border=true&bg_color=0000)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nilton_miguel&layout=compact&bg_color=0000&hide_border=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+<figure><embed src="https://wakatime.com/share/@Nilton_Miguel/cfb640cc-566f-44ef-a510-75f1172aa389.svg"></embed></figure>
 
 
 ##
